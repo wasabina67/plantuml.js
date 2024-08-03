@@ -1,3 +1,4 @@
+<!--
 # PlantUML.js
 
 PlantUML that works completely on the browser without needing a server.
@@ -23,6 +24,7 @@ See `examples/` for how to integrate
 ## Local development
 
 `npx http-server`
+-->
 
 # Sample
 
