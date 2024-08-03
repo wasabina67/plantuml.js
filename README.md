@@ -23,3 +23,5 @@ See `examples/` for how to integrate
 ## Local development
 
 `npx http-server`
+
+# Sample
